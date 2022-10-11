@@ -19,6 +19,9 @@ Explain what you expected to happen.
 **Evidence**
 If you have video or photo evidence of the bug occurring it would be GREATLY appreciated.
 
+**IMPORTANT: Logs/Crash reports**
+If you have generated a crash report provide it, otherwise upload the log of the session where the issue occurred. Failing to do so will make your issue report very difficult to work on.
+
 **Game Version**
 I.E.Minecraft 1.19.2
 **Mod Loader Version**
