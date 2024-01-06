@@ -8,9 +8,3 @@ You are fully welcome to copy segments of code to use in your own projects howev
 As a general rule, if you don't want to get yelled at for plagiarism, your best bet is to credit the original author (in this case Vicious) or just not copy at all. We won't actively hunt people down but there's always a possibility someone will notice.
 
 We do not give permission to anyone to host our files elsewhere. The only place you should be getting Vicious programs and libraries from is this organization or the following trusted sites: CurseForge (curseforge.com)
-
-We will take action if files are posted elsewhere as this puts other people at risk at downloading a virus (looking at you 9minecraft) Again, reposting software wthout permission is not an indicator of respect for its creators, its an indicator of either blatant stealing or possible predatory behavior.
-
-Install this on your browser to help combat these baddies:
-https://stopmodreposts.org/extension
-Spread the word.
